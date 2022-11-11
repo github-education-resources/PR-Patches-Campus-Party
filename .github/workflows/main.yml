@@ -1,6 +1,7 @@
 # This is a basic workflow to help you get started with Actions. It's copied from the GitHub Graduation Workflow.
 
-name: Pão de Queijo Helper
+name: GitHub PR - Patch Request
+
 
 # Controls when the action will run.
 on:
