@@ -20,7 +20,7 @@ Fique atento, que `<SEU-USUARIO>` é Case Sensitive (respeita maiúsculas e min�
 ```
 ---
 user: Sua github user
-time: 2022-06-16 11:00:00
+time: 2022-11-11 11:00:00
 quote: Sua frase aqui.
 ---
 ```
@@ -42,7 +42,7 @@ Essas são as pessoas autorizadas a aprovar o seu Pull Request -
   ![euaaron](https://avatars.githubusercontent.com/euaaron?s=64)
   ![wgcv](https://avatars.githubusercontent.com/wgcv?s=64)
   
-  ### 3. Hora de pegar o seu patch! Vá até o estande do GitHubpatch
+  ### 3. Hora de pegar o seu patch! Vá até o estande do GitHub
   
 Informações importantes: O estande do GitHub fica na área paga da Campus Party. Qualquer dúvida, procure por alguém com uma camiseta com a logo do GitHub
   
@@ -69,7 +69,7 @@ time: 2022-06-16 11:00:00 é Dia 16 de Junho de 2022
 ```
 ---
 user: Sua github user @
-time: 2022-06-16 11:00:00
+time: 2022-11-11 11:00:00
 quote: Sua frase aqui.
 ---
 ```
