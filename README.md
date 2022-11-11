@@ -5,7 +5,7 @@ Para participar e receber o seu patch gratuito, você precisa seguir os três pa
 
 ### 1. Faça um Pull Request neste repositório
 
-O que você recomendaria para outra pessoa Campuseira fazer durante a Campus Party? (Max 280 char)
+O que você deveria ter trazido para a Campus Party, mas que você esqueceu? (Max 280 char)
 
 Substitua `<SEU-USUARIO>` pelo seu usuário do GitHub neste guia. 
 
@@ -36,26 +36,21 @@ Essas são as pessoas autorizadas a aprovar o seu Pull Request -
   
   ![mlarasusan](https://avatars.githubusercontent.com/mlarasusan?s=64)
   ![elisemoe](https://avatars.githubusercontent.com/elisemoe?s=64)
-  ![juanpflores](https://avatars.githubusercontent.com/juanpflores?s=64)
   ![pachicodes](https://avatars.githubusercontent.com/pachicodes?s=64)
   ![pedrolacerda](https://avatars.githubusercontent.com/pedrolacerda?s=64)
-  ![euaaron](https://avatars.githubusercontent.com/euaaron?s=64)
-  ![wgcv](https://avatars.githubusercontent.com/wgcv?s=64)
+  ![lasr21](https://avatars.githubusercontent.com/lasr21?s=64)
+  ![lfp2](https://avatars.githubusercontent.com/lfp2?s=64)
+  ![MariaEmiliaRG](https://avatars.githubusercontent.com/MariaEmiliaRG?s=64)
+  ![melpalhano](https://avatars.githubusercontent.com/melpalhano?s=64)
+  ![MichaelBarney](https://avatars.githubusercontent.com/MichaelBarney?s=64)
+  ![OtacilioN](https://avatars.githubusercontent.com/OtacilioN?s=64)
   
   ### 3. Hora de pegar o seu patch! Vá até o estande do GitHub
   
 Informações importantes: O estande do GitHub fica na área paga da Campus Party. Qualquer dúvida, procure por alguém com uma camiseta com a logo do GitHub
-  
-  ## Outras formas de participar com o GitHub na Campus Party
 
-  - [ ] Compartilhe sobre o PR Patch com seus amigos. Se você for marcado em três diferentes Pull Requests, VOCÊ ganha uma camiseta do GitHub (retirar em nossa bancada) 
-  - [ ] Siga o GitHub Education no [Twitter](https://twitter.com/GitHubEducation) e [Instagram](https://www.instagram.com/githubeducation/) 
-  - [ ] Se inscreva para o [Student Developer Pack](https://education.github.com/pack) (vá até a nossa bancada para suporte) 
-  - [ ] Poste uma foto com o seu Patch e marque o GitHub Education no [Twitter](https://twitter.com/GitHubEducation) e/ou [Instagram](https://www.instagram.com/githubeducation/)
-
-## See your message to the campuseiros 👀
-Quando seu pull request for aprovado, voce vera sua mensagem na GitHub Page do evento: https://education.github.io/PR-Pao-de-Queijo-Request/
-
+## Veja a resposta de sua pergunta 👀
+Quando seu pull request for aprovado, você vera sua mensagem no estande do GitHub e website. 
 
 ## Principais erros
 ### Não fazer o PR na pasta _ messages
