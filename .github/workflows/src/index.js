@@ -154,7 +154,7 @@ Feel free to re-request a review from me and I'll come back and take a look!
     `
   } else {
     // All checks pass
-    feedBackMessage = "Excelente, agora voce esta a um passo de distancia do delicioso pao de queijo. Encontre um hubber (pessoa que trabalha no GitHub) ou um campus expert para que deem merge em seu pull request e entreguem seu voucher do pao de queijo. "
+    feedBackMessage = "Excelente, agora voce esta a um passo de distancia do badge. Encontre um hubber (pessoa que trabalha no GitHub) ou um campus expert para que deem merge em seu pull request e entreguem seu badge. "
     
     try {
        
