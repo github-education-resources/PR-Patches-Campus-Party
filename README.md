@@ -1,7 +1,7 @@
-# GitHub PR - Pão de Queijo Request
+# GitHub PR - Patch Request
 
-## Como participar do PR Pão de Queijo
-Para participar e receber o seu Pão de Queijo gratuito, você precisa seguir os três passos descritos abaixo. 
+## Como participar do PR Patch
+Para participar e receber o seu patch gratuito, você precisa seguir os três passos descritos abaixo. 
 
 ### 1. Faça um Pull Request neste repositório
 
@@ -30,7 +30,7 @@ Use o checklist no template do Pull Request para garantir que sua submissão é 
 ❓ Está enfrentando algum problema ao submeter o seu Pull Request? Busque por ajuda no [GitHub Community](https://github.community/)!
   
 ### 2. Encontre alguém do GitHub na Campus Party 
-Funcionários e Campus Experts do GitHub são os únicos com a permissão para aprovar o seu Pull Request e fornecer o cupom para o pão de queijo. Você pode nos encontrar caminhando pelo evento (as pessoas das fotos abaixo), mas estaremos sempre em nossa bancada dentro da arena 👀 🗺️
+Funcionários e Campus Experts do GitHub são os únicos com a permissão para aprovar o seu Pull Request e fornecer o cupom para o Patch. Você pode nos encontrar caminhando pelo evento (as pessoas das fotos abaixo), mas estaremos sempre em nossa bancada dentro da arena 👀 🗺️
   
 Essas são as pessoas autorizadas a aprovar o seu Pull Request -
   
@@ -42,21 +42,22 @@ Essas são as pessoas autorizadas a aprovar o seu Pull Request -
   ![euaaron](https://avatars.githubusercontent.com/euaaron?s=64)
   ![wgcv](https://avatars.githubusercontent.com/wgcv?s=64)
   
-  ### 3. Hora de comer! Vá até o Segafredo Café para retirar o seu pão de queijo
+  ### 3. Hora de pegar o seu patch! Vá até o estande do GitHubpatch
   
-Informações importantes: Segafredo fica no primeiro andar, junto com as lojas. Você pode trocar o seu cupom por um pão de queijo, OU uma fatia de bolo de fubá, OU um café. 
+Informações importantes: O estande do GitHub fica na área paga da Campus Party. Qualquer dúvida, procure por alguém com uma camiseta com a logo do GitHub
   
-  ## Outras formas de participar com o GitHub na Campus Party 
-  - [ ] Compartilhe sobre o PR Pão de Queijo com seus amigos. Se você for marcado em três diferentes Pull Requests, VOCÊ ganha uma camiseta do GitHub (retirar em nossa bancada) 
+  ## Outras formas de participar com o GitHub na Campus Party
+
+  - [ ] Compartilhe sobre o PR Patch com seus amigos. Se você for marcado em três diferentes Pull Requests, VOCÊ ganha uma camiseta do GitHub (retirar em nossa bancada) 
   - [ ] Siga o GitHub Education no [Twitter](https://twitter.com/GitHubEducation) e [Instagram](https://www.instagram.com/githubeducation/) 
   - [ ] Se inscreva para o [Student Developer Pack](https://education.github.com/pack) (vá até a nossa bancada para suporte) 
-  - [ ] Poste uma foto com o seu pão de queijo e marque o GitHub Education no [Twitter](https://twitter.com/GitHubEducation) e/ou [Instagram](https://www.instagram.com/githubeducation/)
+  - [ ] Poste uma foto com o seu Patch e marque o GitHub Education no [Twitter](https://twitter.com/GitHubEducation) e/ou [Instagram](https://www.instagram.com/githubeducation/)
 
 ## See your message to the campuseiros 👀
-Once the pull request has been approved, you can see your message on the event GitHub PageQuando seu pull request for aprovado, voce vera sua mensagem na GitHub Page do evento: https://education.github.io/PR-Pao-de-Queijo-Request/
+Quando seu pull request for aprovado, voce vera sua mensagem na GitHub Page do evento: https://education.github.io/PR-Pao-de-Queijo-Request/
 
 
-## Principais error
+## Principais erros
 ### Não fazer o PR na pasta _ messages
 Em algus casos, seu navegador pode traduzir o nome da pasta messages e colocar mensagens. NÃO faça o commit na pasta mensagens, corrija de volta para messages
 
