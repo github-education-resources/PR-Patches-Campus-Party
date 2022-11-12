@@ -6,14 +6,14 @@ Para participar e receber o seu patch gratuito, você precisa seguir os três pa
 ### 1. Faça um Pull Request neste repositório
 
 O que você deveria ter trazido para a Campus Party, mas que você esqueceu? (Max 280 char)
+eu deveria ter levado meu notebook kkk, mas infelizmente ele queimou a um dia da campus estou fazendo este pull request pelo celular mesmo.
+Substitua `<dieguesmosken>` pelo seu usuário do GitHub neste guia. 
 
-Substitua `<SEU-USUARIO>` pelo seu usuário do GitHub neste guia. 
-
-Crie um arquivo markdown dentro da pasta `_messages` seguindo esse exemplo: `<YOUR-USERNAME>.md`. 
+Crie um arquivo markdown dentro da pasta `_messages` seguindo esse exemplo: `<dieguesmosken>.md`. 
 
 Ex. `_messages/MonaTheOctocat.md`
 
-Fique atento, que `<SEU-USUARIO>` é Case Sensitive (respeita maiúsculas e minúsculas). Por exemplo, se o seu nome de usuário é `MonaTheOctocat`, usar outras variações como `monatheoctocat` ou `monaTheoctocat` irá gerar um erro ao submeter o Pull Request. Tenha certeza que você está usando o seu nome de usuário corretamente tanto no nome da pasta quanto no nome do arquivo.
+Fique atento, que `<dieguesmosken>` é Case Sensitive (respeita maiúsculas e minúsculas). Por exemplo, se o seu nome de usuário é `MonaTheOctocat`, usar outras variações como `monatheoctocat` ou `monaTheoctocat` irá gerar um erro ao submeter o Pull Request. Tenha certeza que você está usando o seu nome de usuário corretamente tanto no nome da pasta quanto no nome do arquivo.
   
 🚨 Não use caracteres especiais no template acima.
     
