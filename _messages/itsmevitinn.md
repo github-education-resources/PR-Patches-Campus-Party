@@ -1,5 +1,5 @@
 ---
 user: itsmevitinn
-time: 2022-11-12 00:55:00
-quote: esqueci de trazer mais meias D:
+time: 2022-11-12 00:56:00
+quote: esqueci de trazer mais meias.
 ---
